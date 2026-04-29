@@ -5,6 +5,7 @@ Put your header comment here!
 console.log("Running t02_variables.js")
 //variable
 
-
-/********************** */
+var username = "Jayden";
+/***********main code*********** */
+console.log(username)
 
