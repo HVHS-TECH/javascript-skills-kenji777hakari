@@ -6,6 +6,7 @@ console.log("Running t02_variables.js")
 //variable
 
 var username = "Jayden";
+var userage = "15"
 /***********main code*********** */
 console.log(username)
 
