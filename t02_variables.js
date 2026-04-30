@@ -8,10 +8,12 @@ console.log("Running t02_variables.js")
 var username = "Jayden";
 var userage = "15"
 var clothes = ["shirt", "pants", "shoes"]
+
 /***********main code*********** */
 console.log(username)
 console.log(userage)
 console.log(clothes)
+console.log(pocketmoney)
 
 
 
