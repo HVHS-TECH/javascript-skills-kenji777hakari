@@ -9,6 +9,7 @@ var username = "Jayden";
 var userage = "15";
 var clothes = ["shirt", "pants", "shoes"];
 var pocketmoney = "3";
+var year = ""
 
 
 /***********main code*********** */
