@@ -17,6 +17,7 @@ console.log("hi " + username);
 console.log(userage);
 console.log(clothes);
 console.log(pocketmoney);
+console.log
 
 
 
