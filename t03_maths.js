@@ -9,7 +9,8 @@ var username = "Jayden";
 var userage = "15";
 var clothes = ["shirt", "pants", "shoes"];
 var pocketmoney = "3";
-var year = ""
+var year = "2026"
+var myNumber = "1";
 
 
 /***********main code*********** */
@@ -17,7 +18,7 @@ console.log("hi " + username);
 console.log(userage);
 console.log(clothes);
 console.log(pocketmoney);
-console.log
+console.log(1 + 2)
 
 
 
