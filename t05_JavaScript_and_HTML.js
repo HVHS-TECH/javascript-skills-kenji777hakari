@@ -12,6 +12,12 @@ var pocketmoney = "3";
 var year = "2026"
 var myNumber = "1";
 
+/***********functions*******************/
+
+function writeline(){
+    OUTPUT.innerHTML +="<p>"
+}
+
 
 /***********main code*********** */
 console.log("hi " + username);
