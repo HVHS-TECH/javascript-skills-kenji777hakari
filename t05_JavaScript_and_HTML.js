@@ -15,7 +15,7 @@ var myNumber = "1";
 /***********functions*******************/
 
 function writeline(){
-    OUTPUT.innerHTML +="<p>"
+    OUTPUT.innerHTML +="<p>Bubble Pop Electric! </p>"
 }
 
 
