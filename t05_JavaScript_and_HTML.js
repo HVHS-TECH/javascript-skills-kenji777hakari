@@ -30,4 +30,5 @@ console.log(1 + 2)
 
 
 
-const OUTPUT = document.getElementById("");
+const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
+OUTPUT.innerHTML = "<h2>HAPPY BRITHDAY DANIEL</h2>"
