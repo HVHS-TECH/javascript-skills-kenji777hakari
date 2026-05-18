@@ -17,11 +17,11 @@ var myNumber = "1";
 
 /***********functions*******************/
 
-function writeline(){
-    OUTPUT.innerHTML +="<p>Bubble Pop Electric! </p>"
+function writeline(_name){
+    OUTPUT.innerHTML +="<p>Welcome to the page "+_name+"</p>"
 }
 
-writeline()
+writeline("bubble")
     
 
 /***********main code*********** */
@@ -36,5 +36,5 @@ console.log(1 + 2)
 
 
 OUTPUT.innerHTML += "<h2>HAPPY BRITHDAY DANIEL</h2>"
-writeline()
+writeline("mahito")
 /**********************************************************/
