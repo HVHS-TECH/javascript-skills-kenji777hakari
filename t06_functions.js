@@ -2,7 +2,7 @@
 This is a block comment.
 Put your header comment here!
 ****************************/
-console.log("Running t06_maths.js")
+console.log("Running t06_fucntions.js")
 //variable
 
 const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
