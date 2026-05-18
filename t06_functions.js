@@ -35,6 +35,6 @@ console.log(1 + 2)
 
 
 
-OUTPUT.innerHTML = "<h2>HAPPY BRITHDAY DANIEL</h2>"
-
+OUTPUT.innerHTML += "<h2>HAPPY BRITHDAY DANIEL</h2>"
+writeline()
 /**********************************************************/
