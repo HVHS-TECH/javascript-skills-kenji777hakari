@@ -5,6 +5,9 @@ Put your header comment here!
 console.log("Running t06_maths.js")
 //variable
 
+const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
+
+
 var username = "Jayden";
 var userage = "15";
 var clothes = ["shirt", "pants", "shoes"];
@@ -32,7 +35,6 @@ console.log(1 + 2)
 
 
 
-const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
 OUTPUT.innerHTML = "<h2>HAPPY BRITHDAY DANIEL</h2>"
 
 /**********************************************************/
