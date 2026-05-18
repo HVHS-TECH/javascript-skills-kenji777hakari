@@ -18,7 +18,8 @@ function writeline(){
     OUTPUT.innerHTML +="<p>Bubble Pop Electric! </p>"
 }
 
-wrtieline();{ }
+wrtieline();{
+    
 
 /***********main code*********** */
 console.log("hi " + username);
