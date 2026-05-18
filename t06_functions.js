@@ -2,7 +2,7 @@
 This is a block comment.
 Put your header comment here!
 ****************************/
-console.log("Running t03_maths.js")
+console.log("Running t06_maths.js")
 //variable
 
 var username = "Jayden";
@@ -18,7 +18,7 @@ function writeline(){
     OUTPUT.innerHTML +="<p>Bubble Pop Electric! </p>"
 }
 
-wrtieline();{
+writeline()
     
 
 /***********main code*********** */
