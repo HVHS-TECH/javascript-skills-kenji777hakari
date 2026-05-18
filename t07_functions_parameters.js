@@ -22,7 +22,7 @@ function writeline(_name, _age){
 OUTPUT.innerHTML +="<p>you are "+_age+" years old</p>"
 }
 
-writeline("bubble, 15")
+writeline("bubble", "15")
     
 
 /***********main code*********** */
@@ -37,5 +37,5 @@ console.log(1 + 2)
 
 
 OUTPUT.innerHTML += "<h2>HAPPY BRITHDAY DANIEL</h2>"
-writeline("mahito")
+writeline("mahito", "15")
 /**********************************************************/
