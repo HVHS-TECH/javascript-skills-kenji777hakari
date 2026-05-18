@@ -17,11 +17,12 @@ var myNumber = "1";
 
 /***********functions*******************/
 
-function writeline(_name){
+function writeline(_name, _age){
     OUTPUT.innerHTML +="<p>Welcome to the page "+_name+"</p>"
+OUTPUT.innerHTML +="<p>you are "+_age+" years old</p>"
 }
 
-writeline("bubble")
+writeline("bubble, 15")
     
 
 /***********main code*********** */
